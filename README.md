@@ -1,3 +1,5 @@
+Lecture code repo.
+
 # redux-saga-starter
 `npm install`
 
